@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Irfan Bashir
 
-### Software Engineer | Data Scientist | Flutter Specialist
+### Data Scientist | Software Engineer | Cloud & DevOps Specialist
 
 [![Email](https://img.shields.io/badge/Email-codecrud360%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:codecrud360@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irfan--bashir360-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/irfan-bashir360)
@@ -14,27 +14,27 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** specializing in **Flutter development** and **Data Science**, currently pursuing my **Master of Data Science** at the University of South Wales. With over 5 years of experience in full-stack development, I bridge the gap between mobile applications and intelligent data-driven solutions.
+I'm a **Data Scientist** and **Software Engineer** currently pursuing my **Master of Data Science** at the University of South Wales. With over 5 years of experience in software engineering, cloud infrastructure, and data networking, I specialize in building scalable data pipelines, deploying ML models, and optimizing cloud-based systems.
 
 ```python
 class IrfanBashir:
     def __init__(self):
         self.name = "Irfan Bashir"
-        self.role = "Software Engineer & Data Scientist"
+        self.role = "Data Scientist & Software Engineer"
         self.location = "Cardiff, United Kingdom"
         self.education = "MSc Data Science - University of South Wales"
         self.specializations = [
-            "Flutter Development",
             "Machine Learning & AI",
-            "Cloud Infrastructure",
-            "IoT Solutions"
+            "Cloud Infrastructure & DevOps",
+            "Data Engineering & Analytics",
+            "Network Engineering"
         ]
     
     def get_current_focus(self):
         return {
-            "learning": ["Advanced ML Algorithms", "Deep Learning", "Big Data"],
-            "working_on": ["Data Science Projects", "Flutter Apps", "AI Integration"],
-            "collaborating_on": ["Open Source ML Projects", "Mobile Apps"]
+            "learning": ["Advanced ML Algorithms", "Deep Learning", "Big Data Technologies"],
+            "working_on": ["ML Pipelines", "Cloud Solutions", "Data Analytics Projects"],
+            "collaborating_on": ["Open Source ML Projects", "Data Science Research"]
         }
 ```
 
@@ -46,17 +46,6 @@ class IrfanBashir:
 <tr>
 <td valign="top" width="50%">
 
-### 📱 Mobile Development
-- **Flutter & Dart** - Cross-platform apps
-- State Management (BLoC, Cubit, Provider)
-- RESTful API Integration
-- Firebase & Cloud Services
-- Material Design & UI/UX
-- Android & iOS Native Integration
-
-</td>
-<td valign="top" width="50%">
-
 ### 🤖 Data Science & AI
 - **Machine Learning** - TensorFlow, PyTorch, Scikit-learn
 - **Statistical Analysis** - Pandas, NumPy, R
@@ -64,6 +53,17 @@ class IrfanBashir:
 - **Deep Learning** - Neural Networks, CNN, RNN
 - **NLP** - Text Processing & Analysis
 - **Predictive Modeling** - Regression, Classification
+
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & DevOps
+- **CI/CD Pipelines** - Docker, Jenkins
+- **Cloud Platforms** - AWS, Google Cloud, Azure
+- **Infrastructure as Code** - Terraform, CloudFormation
+- **Containerization** - Docker, Kubernetes
+- **Monitoring & Logging** - CloudWatch, Prometheus
+- **Network Engineering** - LAN/WAN, Routing, Firewalls
 
 </td>
 </tr>
@@ -75,28 +75,27 @@ class IrfanBashir:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
 
-**Mobile Development**
-```
-Flutter | BLoC | Cubit | Provider | MVC | MVVM | MVP
-```
-
 **Data Science & ML**
 ```
-TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Keras
+TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Keras | XGBoost
 ```
 
 **Backend & Web**
 ```
-Django | Flask | Django REST Framework | FastAPI
+Django | Flask | Django REST Framework | FastAPI | Streamlit
+```
+
+**Data Processing & Visualization**
+```
+Apache Spark | Jupyter | Power BI | Tableau | Matplotlib | Seaborn
 ```
 
 ### Cloud & DevOps
@@ -121,49 +120,61 @@ Arduino | Raspberry Pi | ESP8266/ESP32 | MQTT | BLE | UART | Home Automation
 
 ## 🏆 Professional Experience
 
-### 💼 Lead Flutter Developer | Computer Expertz Ltd
-*November 2022 - Present | Kingston, Jamaica*
+### 💼 DevOps Engineer | Computer Expertz Ltd
+*February 2021 - October 2024 | Jamaica*
 
-- 🎯 Architected and developed "Conversations for Greatness" mobile and web application using Flutter
-- 🔧 Implemented state management with BLoC and Cubit patterns for scalable architecture
-- 🔐 Integrated OAuth authentication, Firebase services, and real-time features
-- 🛠️ Built backend services with ABP framework in C# with comprehensive API integrations
-- 👥 Led and supervised junior developers while maintaining GitHub codebase
+- 🚀 Set up and managed CI/CD pipelines to automate application deployment and updates
+- ☁️ Maintained and monitored cloud infrastructure on AWS and Google Cloud, ensuring system reliability
+- 🐳 Worked with Docker to containerize applications, making them easier to deploy and scale
+- 📊 Implemented monitoring and logging solutions to track system performance and identify issues
+- 🔧 Managed version control and branching strategies using GitHub to ensure smooth collaboration
+- 👥 Collaborated with development teams to improve deployment processes and system stability
 
-### 🏥 Flutter Developer | Sarasota Memorial Health Care System
-*September 2020 - November 2022 | Florida, United States*
+### 🏥 Solutions Architect | Sarasota Memorial Hospital (SMH)
+*September 2020 - August 2022 | Florida, United States*
 
-- 📱 Developed three healthcare mobile applications for multi-branch hospital system
-- 🔍 Built intelligent symptom checker with recommendation engine
-- 📅 Implemented appointment booking system with doctor search and qualification display
-- 💳 Integrated patient portal with surgery tracking, billing, and location services via Google Maps
+- 🏗️ Designed technical solutions and planned infrastructure for healthcare applications
+- 📱 Architected scalable application systems with focus on performance and reliability
+- 🔗 Led integration planning for multiple hospital systems and third-party services
+- 🔐 Ensured security compliance and data protection in healthcare IT infrastructure
+- 📈 Optimized system architecture for multi-branch hospital operations
 
-### 🚂 Android Developer | Pakistan Railways
-*October 2019 - July 2020 | Lahore, Pakistan*
+### 🌐 Network Engineer | Pakistan Railways
+*September 2021 - December 2021 | Lahore, Pakistan*
 
-- 🎫 Created comprehensive ticketing application with online/offline capabilities
-- 📶 Implemented offline-first architecture with automatic synchronization
-- 🖨️ Integrated Bluetooth thermal printer support for on-the-spot ticket printing
-- 📊 Developed fare calculation engine with route optimization
+- 🔌 Installed, configured, and maintained network infrastructure ensuring reliable connectivity
+- 🛡️ Configured routers, switches, and firewalls to optimize network performance and security
+- 📡 Managed LAN/WAN networks and troubleshot connectivity issues to minimize downtime
+- 🔒 Implemented VPN and remote access solutions for secure data transmission
+- 📝 Maintained comprehensive network documentation and configuration records
 
 ---
 
 ## 📊 Data Science Projects
 
 ### 🧠 Machine Learning Pipeline
-- Built end-to-end ML pipelines for predictive analytics
-- Implemented feature engineering and model selection strategies
-- Deployed models using Flask/Django REST APIs
+- Built end-to-end ML pipelines for predictive analytics using Python and Scikit-learn
+- Implemented feature engineering and automated model selection strategies
+- Deployed models using Flask/Django REST APIs with containerized deployment
+- Achieved 92% accuracy on classification tasks through hyperparameter optimization
 
-### 📈 Data Visualization Dashboard
-- Created interactive dashboards using Power BI and Python
-- Real-time data streaming and analytics
-- Custom visualizations with Matplotlib and Seaborn
+### 📈 Big Data Analytics Platform
+- Developed real-time data processing pipelines using Apache Spark
+- Created interactive dashboards using Power BI and Streamlit for stakeholder insights
+- Implemented ETL processes for large-scale data transformation
+- Reduced data processing time by 60% through optimization
 
-### 🤖 AI-Powered Applications
-- Integrated TensorFlow models into Flutter applications
-- On-device ML inference for mobile apps
-- Computer Vision and NLP implementations
+### 🤖 Deep Learning Applications
+- Built neural network models using TensorFlow and PyTorch for various domains
+- Implemented Computer Vision solutions for image classification and object detection
+- Developed NLP models for text analysis and sentiment classification
+- Deployed models to cloud platforms (AWS SageMaker, Google Cloud AI Platform)
+
+### 📊 Statistical Analysis & Visualization
+- Conducted comprehensive statistical analysis using R and Python
+- Created automated reporting systems with dynamic visualizations
+- Performed A/B testing and hypothesis testing for business decisions
+- Built predictive models for time series forecasting
 
 ---
 
@@ -223,22 +234,26 @@ research_areas = {
     "Machine Learning": [
         "Deep Learning architectures",
         "Transfer Learning",
-        "Model optimization for mobile devices"
-    ],
-    "Mobile AI": [
-        "On-device ML inference",
-        "Edge computing",
-        "AI-powered mobile applications"
+        "AutoML and model optimization",
+        "Ensemble methods"
     ],
     "Data Engineering": [
-        "Big Data processing",
-        "Real-time analytics",
-        "Cloud-based data pipelines"
+        "Big Data processing (Spark, Hadoop)",
+        "Real-time analytics pipelines",
+        "Cloud-based data warehousing",
+        "ETL optimization"
     ],
-    "IoT & Edge Computing": [
-        "Smart home automation",
-        "Industrial IoT solutions",
-        "Sensor data analytics"
+    "MLOps & Deployment": [
+        "Model serving and monitoring",
+        "CI/CD for ML pipelines",
+        "Model versioning and tracking",
+        "Scalable inference systems"
+    ],
+    "Cloud & Infrastructure": [
+        "Serverless architectures",
+        "Container orchestration",
+        "Multi-cloud strategies",
+        "Infrastructure automation"
     ]
 }
 ```
@@ -259,15 +274,22 @@ graph LR
     G --> H[Monitoring]
 ```
 
-### Flutter Development Stack
+### Cloud Architecture Stack
 ```yaml
-Mobile Architecture:
-  - State Management: BLoC, Cubit, Provider, Riverpod
-  - Local Storage: SQLite (Floor, Moor), Hive, SharedPreferences
-  - Backend: Firebase, Supabase, REST APIs
-  - Cloud: AWS IoT, Google Cloud IoT, Azure IoT
-  - Real-time: WebSockets, Firebase Realtime Database, Firestore
-  - Authentication: Firebase Auth, OAuth, JWT
+Cloud Infrastructure:
+  - Compute: AWS EC2, Google Compute Engine, Azure VMs
+  - Storage: S3, Google Cloud Storage, Azure Blob Storage
+  - Databases: RDS, CloudSQL, CosmosDB
+  - Containers: Docker, Kubernetes, ECS, GKE
+  - CI/CD: Jenkins, GitHub Actions, GitLab CI
+  - Monitoring: CloudWatch, Prometheus, Grafana
+  - Networking: VPC, Load Balancers, CDN
+
+Data Engineering:
+  - Processing: Apache Spark, Hadoop, Databricks
+  - Streaming: Kafka, AWS Kinesis, Google Pub/Sub
+  - Warehousing: Snowflake, BigQuery, Redshift
+  - Orchestration: Airflow, Luigi, Prefect
 ```
 
 ---
@@ -278,22 +300,13 @@ Mobile Architecture:
 <tr>
 <td width="33%" align="center">
 
-### 📱 Mobile Development
-- Cross-platform apps
-- Native integrations
-- State management
-- App architecture
-- Performance optimization
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 AI & ML
-- Supervised learning
-- Neural networks
-- Model deployment
-- Feature engineering
-- Data preprocessing
+### 🤖 Data Science & ML
+- Machine Learning
+- Deep Learning
+- Statistical Analysis
+- Predictive Modeling
+- Feature Engineering
+- Model Deployment
 
 </td>
 <td width="33%" align="center">
@@ -303,7 +316,19 @@ Mobile Architecture:
 - Container orchestration
 - Cloud infrastructure
 - Microservices
-- API development
+- System monitoring
+- Infrastructure automation
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 Network & Systems
+- Network architecture
+- LAN/WAN configuration
+- Security implementation
+- System optimization
+- Hardware integration
+- Performance tuning
 
 </td>
 </tr>
@@ -313,37 +338,36 @@ Mobile Architecture:
 
 ## 💡 Current Focus
 
-```dart
-class CurrentFocus {
-  final List<String> learning = [
+```python
+class CurrentFocus:
+  learning = [
     'Advanced Deep Learning Techniques',
     'Large Language Models (LLMs)',
     'Big Data Technologies (Spark, Hadoop)',
     'MLOps and Model Deployment',
-    'Edge AI and TinyML'
-  ];
+    'Edge AI and Distributed Systems'
+  ]
   
-  final List<String> building = [
-    'AI-powered Flutter applications',
+  building = [
+    'End-to-end ML pipelines',
     'Data analytics platforms',
-    'IoT integration solutions',
-    'Real-time ML pipelines'
-  ];
+    'Cloud-based data solutions',
+    'Real-time processing systems'
+  ]
   
-  final Map<String, String> openTo = {
-    'Collaboration': 'Open source ML and Flutter projects',
-    'Opportunities': 'Data Science and Mobile Development roles',
-    'Learning': 'New technologies and frameworks',
-    'Networking': 'Tech communities and meetups'
-  };
-}
+  open_to = {
+    'Collaboration': 'Open source ML and Data Engineering projects',
+    'Opportunities': 'Data Science, ML Engineering, and DevOps roles',
+    'Learning': 'New AI/ML technologies and frameworks',
+    'Networking': 'Tech communities and research groups'
+  }
 ```
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative projects, especially those at the intersection of mobile development and data science.
+I'm always interested in collaborating on innovative projects, especially those involving data science, machine learning, and cloud infrastructure.
 
 <div align="center">
 
@@ -352,7 +376,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 [![Phone](https://img.shields.io/badge/Phone-%2B44%207838541003-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+447838541003)
 
 ### 💬 Open to:
-**Contract Opportunities** | **Graduate Programs** | **Collaborations** | **Consulting**
+**Data Science Roles** | **ML Engineering** | **Cloud/DevOps Positions** | **Consulting**
 
 </div>
 
@@ -362,12 +386,12 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ### ⚡ Fun Fact
 
-I won a national speed programming competition representing IEEE Society - proving that I write code fast AND efficiently! 🚀
+I won a national speed programming competition representing IEEE Society - proving that I can code efficiently under pressure! 🚀
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=irfan-bashir&color=blueviolet&style=for-the-badge)
 
-**"Transforming data into insights, ideas into applications"**
+**"Transforming data into insights, infrastructure into efficiency"**
 
 </div>
