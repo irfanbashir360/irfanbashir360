@@ -213,20 +213,6 @@ Arduino | Raspberry Pi | ESP8266/ESP32 | MQTT | BLE | UART | Home Automation
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfan-bashir&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-bashir&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfan-bashir&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🔬 Research Interests
 
 ```python
