@@ -81,6 +81,7 @@ class IrfanBashir:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ### Frameworks & Libraries
 
 **Data Science & ML**
@@ -187,12 +188,12 @@ Arduino | Raspberry Pi | ESP8266/ESP32 | MQTT | BLE | UART | Home Automation
 
 <div align="center">
 
-| Certification | Issuer | Certificate Number |
-|--------------|--------|-------------------|
-| **HCIP-Datacom (Advanced Routing)** | Huawei | 0102001036238084351310026 |
-| **HCIA-Datacom** | Huawei | 0101039016238084381310121 |
-| **HCIA-AI** | Huawei | 0101020016238084348999256 |
-| **IELTS** | British Council | - |
+| Certification | Issuer 
+|--------------|--------
+| **HCIP-Datacom (Advanced Routing)** | Huawei 
+| **HCIA-Datacom** | Huawei 
+| **HCIA-AI** | Huawei 
+| **IELTS** | British Council 
 
 </div>
 
