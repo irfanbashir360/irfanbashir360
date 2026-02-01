@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Mobile+Solutions+%F0%9F%93%B1;Transforming+Data+Into+Insights+%F0%9F%93%8A;5%2B+Years+of+Engineering+Excellence+%F0%9F%9A%80;Award-Winning+Developer+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
-<p align="center">
+<p>
   <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 </p>
 
 <!-- Profile Views & Followers -->
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=irfan-bashir&style=for-the-badge&color=6366F1"/>
   <img src="https://img.shields.io/github/followers/irfan-bashir?style=for-the-badge&color=6366F1&labelColor=1a1b27"/>
   <img src="https://img.shields.io/github/stars/irfan-bashir?style=for-the-badge&color=6366F1&labelColor=1a1b27"/>
@@ -23,37 +23,8 @@
 
 </div>
 
-<!-- About Section -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 🧑‍💻 About Me
-```yaml
-name: Irfan Bashir
-location: Cardiff, UK 🇬🇧
-education: MSc Data Science @ University of South Wales
-experience: 5+ Years
-
-current_role:
-  company: Xorsel
-  position: Software Engineer
-  focus: 
-    - Voice AI Solutions
-    - Flutter Development
-    - IoT Applications
-
-achievements:
-  - 🥇 National Speed Programming Champion
-  - 🥈 Runner-up Programming Competition
-  - 🎓 Huawei Certified (HCIP & HCIA)
-
-passion: Building apps that make a difference
-```
-
-<br clear="right"/>
-
 ---
 
-<!-- Tech Stack Section -->
 ## 🛠️ Tech Arsenal
 
 <details open>
@@ -63,13 +34,15 @@ passion: Building apps that make a difference
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma&theme=dark" />
 </p>
 
-| Category | Technologies |
-|----------|-------------|
-| **Framework** | Flutter, React Native |
-| **State Management** | Provider, Riverpod, BLoC, GetX |
-| **Backend** | Firebase, Supabase, REST APIs, GraphQL |
-| **Storage** | SQLite, Hive, SharedPreferences |
-| **Deployment** | App Store, Google Play, TestFlight |
+**Framework:** Flutter, React Native
+
+**State Management:** Provider, Riverpod, BLoC, GetX
+
+**Backend:** Firebase, Supabase, REST APIs, GraphQL
+
+**Storage:** SQLite, Hive, SharedPreferences
+
+**Deployment:** App Store, Google Play, TestFlight
 
 </details>
 
@@ -80,13 +53,15 @@ passion: Building apps that make a difference
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,anaconda&theme=dark" />
 </p>
 
-| Category | Technologies |
-|----------|-------------|
-| **ML/DL** | TensorFlow, PyTorch, Scikit-learn, Keras |
-| **Data Analysis** | Pandas, NumPy, SciPy |
-| **Visualization** | Power BI, Matplotlib, Seaborn, Plotly |
-| **Big Data** | Apache Spark, Hadoop |
-| **NLP** | NLTK, spaCy, Transformers |
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, Keras
+
+**Data Analysis:** Pandas, NumPy, SciPy
+
+**Visualization:** Power BI, Matplotlib, Seaborn, Plotly
+
+**Big Data:** Apache Spark, Hadoop
+
+**NLP:** NLTK, spaCy, Transformers
 
 </details>
 
@@ -97,13 +72,15 @@ passion: Building apps that make a difference
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,aws,gcp&theme=dark" />
 </p>
 
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | Django, Flask, FastAPI, Node.js |
-| **Cloud** | AWS, Google Cloud, Azure |
-| **Containers** | Docker, Kubernetes |
-| **Databases** | PostgreSQL, MongoDB, Firebase, SQLite |
-| **CI/CD** | Jenkins, GitHub Actions |
+**Backend:** Django, Flask, FastAPI, Node.js
+
+**Cloud:** AWS, Google Cloud, Azure
+
+**Containers:** Docker, Kubernetes
+
+**Databases:** PostgreSQL, MongoDB, Firebase, SQLite
+
+**CI/CD:** Jenkins, GitHub Actions
 
 </details>
 
@@ -111,32 +88,12 @@ passion: Building apps that make a difference
 <summary><b>🔧 Languages & Tools</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,typescript,java,cpp,r,sql,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,dart,typescript,java,cpp,r,git,vscode,postman&theme=dark" />
 </p>
 </details>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfan-bashir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-bashir&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-bashir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfan-bashir&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-<!-- Experience Section -->
 ## 💼 Professional Journey
 ```mermaid
 timeline
@@ -150,171 +107,132 @@ timeline
     2025 : MSc Data Science @ University of South Wales
 ```
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🚀 Xorsel | Software Engineer
 **📍 Cardiff, UK | Present**
-```diff
-+ Flutter & Dart Development
-+ Voice AI Solutions
-+ IoT Metering Applications
-+ REST API Integrations
-+ UI/UX Design
-```
 
-</td>
-<td width="50%">
+- 📱 Developing cross-platform mobile applications using Flutter & Dart
+- 🎙️ Building Voice AI solutions and custom software for businesses
+- 🔌 Creating IoT-integrated metering and monitoring applications
+- 🔗 Implementing REST API integrations and real-time data synchronization
+- 📊 Designing intuitive UI/UX for complex data visualization
 
-### ☁️ Computer Expertz | DevOps Engineer
-**📍 Jamaica | 2021 - 2024**
-```diff
-+ CI/CD Pipeline Management
-+ AWS & Google Cloud
-+ Docker Containerization
-+ System Monitoring
-+ Team Collaboration
-```
+### ☁️ Computer Expertz Ltd | DevOps Engineer
+**📍 Jamaica | February 2021 - October 2024**
 
-</td>
-</tr>
-</table>
+- 🚀 Set up and managed CI/CD pipelines to automate application deployment
+- ☁️ Maintained and monitored cloud infrastructure on AWS and Google Cloud
+- 🐳 Worked with Docker to containerize applications for scalable deployment
+- 📊 Implemented monitoring and logging solutions for system performance
+- 👥 Collaborated with development teams to improve deployment processes
+
+### 🏥 Sarasota Memorial Hospital | Solutions Architect
+**📍 Florida, USA | September 2020 - August 2022**
+
+- 🏗️ Designed technical solutions and planned infrastructure for healthcare applications
+- 📱 Architected scalable application systems with focus on performance and reliability
+- 🔗 Led integration planning for multiple hospital systems and third-party services
+- 🔐 Ensured security compliance and data protection in healthcare IT infrastructure
+
+### 🌐 Pakistan Railways | Network Engineer
+**📍 Lahore, Pakistan | September 2021 - December 2021**
+
+- 🔌 Installed, configured, and maintained network infrastructure
+- 🛡️ Configured routers, switches, and firewalls for network security
+- 📡 Managed LAN/WAN networks and troubleshot connectivity issues
+- 🔒 Implemented VPN and remote access solutions
 
 ---
 
-<!-- Projects Section -->
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">📊 Uniq Meter App</h3>
-<p align="center">
+### 📊 Uniq Meter App
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
-```
-📱 Comprehensive metering & monitoring app
-🔌 Gateway & device management
-📡 Real-time API data acquisition
-📄 PDF generation & reporting
-🔐 Firebase authentication
-```
 
-</td>
-<td width="50%">
+- 📱 Comprehensive metering & monitoring application built with Flutter
+- 🔌 Gateway integration and device management features
+- 📡 Real-time data acquisition from APIs (Netbiter)
+- 📄 PDF generation and professional reporting features
+- 🔐 Firebase authentication and cloud storage
 
-<h3 align="center">🤖 AI Restaurant Kiosk</h3>
-<p align="center">
+### 🤖 AI Restaurant Kiosk
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Voice-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
-```
-🎙️ Voice-powered ordering system
-🧠 AI menu recommendations
-💳 Seamless payment integration
-📋 Order management dashboard
-🎨 Custom UI/UX design
-```
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- 🎙️ Voice-powered ordering system with AI capabilities
+- 🧠 AI-driven menu recommendations
+- 💳 Seamless payment integration
+- 📋 Order management dashboard
+- 🎨 Custom UI/UX design
 
-<h3 align="center">🎓 UniConnect South Wales</h3>
-<p align="center">
+### 🎓 UniConnect South Wales
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
-```
-👥 Student networking platform
-💬 Real-time messaging
-📅 Event management system
-🏫 Campus-specific features
-🔔 Push notifications
-```
 
-</td>
-<td width="50%">
+- 👥 Student networking platform for university students
+- 💬 Real-time messaging system
+- 📅 Event management features
+- 🏫 Campus-specific functionality
+- 🔔 Push notifications
 
-<h3 align="center">🧠 ML Pipeline Platform</h3>
-<p align="center">
+### 🧠 ML Pipeline Platform
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
-```
-📈 End-to-end ML pipelines
-🎯 92% classification accuracy
-🚀 Flask/Django API deployment
-📊 Automated model selection
-⚡ Hyperparameter optimization
-```
 
-</td>
-</tr>
-</table>
+- 📈 End-to-end ML pipelines for predictive analytics
+- 🎯 Achieved 92% classification accuracy
+- 🚀 Flask/Django API deployment
+- 📊 Automated model selection
+- ⚡ Hyperparameter optimization
 
 ---
 
-<!-- Education & Certifications -->
 ## 🎓 Education & Certifications
 
-<table>
-<tr>
-<td width="60%">
+### 📚 Master of Science in Data Science
+**University of South Wales** | Cardiff, UK | 2025
 
-### 📚 Education
+*Focus: Machine Learning, Big Data Analytics, Statistical Modeling*
 
-<img align="left" width="80" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/University_of_South_Wales_logo.svg/1200px-University_of_South_Wales_logo.svg.png"/>
+### 🏅 Professional Certifications
 
-**Master of Science in Data Science**  
-University of South Wales  
-📍 Cardiff, UK | 🗓️ 2025  
-*Focus: Machine Learning, Big Data Analytics*
+🔴 **HCIP-Datacom** (Advanced Routing) - Huawei
 
-</td>
-<td width="40%">
+🟠 **HCIA-Datacom** - Huawei
 
-### 🏅 Certifications
-
-| Badge | Certification |
-|:-----:|--------------|
-| 🔴 | **HCIP-Datacom** (Advanced Routing) |
-| 🟠 | **HCIA-Datacom** |
-| 🟢 | **HCIA-AI** |
-
-*Issued by Huawei*
-
-</td>
-</tr>
-</table>
+🟢 **HCIA-AI** - Huawei
 
 ---
 
-<!-- Achievements Section -->
 ## 🏆 Achievements & Awards
 
-<div align="center">
+### 🥇 Speed Programming Champion
+**Science Bee'19 | NUST, Islamabad**
 
-| 🥇 | 🥈 |
-|:---:|:---:|
-| **Speed Programming Champion** | **Runner-up Programming** |
-| Science Bee'19 @ NUST, Islamabad | Comsat University, Wah Cantt |
-| Represented IEEE Society, GCUF | National-level Competition |
-| *First place after two rounds* | *Exceptional problem-solving* |
+- Represented IEEE Society, GCUF
+- Competed against top students from universities across Pakistan
+- Secured first place after two competitive rounds
 
-</div>
+### 🥈 Runner-up Speed Programming
+**Comsat University | Wah Cantt**
+
+- National-level programming competition
+- Demonstrated exceptional algorithmic problem-solving skills
 
 ---
 
-<!-- Skills Progress -->
 ## 📈 Skills & Expertise
 ```text
 Flutter/Dart      ████████████████████░   95%
@@ -328,7 +246,6 @@ DevOps            ███████████████░░░░░�
 
 ---
 
-<!-- Connect Section -->
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -361,7 +278,6 @@ DevOps            ███████████████░░░░░�
 
 ---
 
-<!-- Quote Section -->
 <div align="center">
 
 ### 💭 Philosophy
