@@ -15,11 +15,6 @@
 </p>
 
 <!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=irfan-bashir&style=for-the-badge&color=6366F1"/>
-  <img src="https://img.shields.io/github/followers/irfan-bashir?style=for-the-badge&color=6366F1&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/github/stars/irfan-bashir?style=for-the-badge&color=6366F1&labelColor=1a1b27"/>
-</p>
 
 </div>
 
