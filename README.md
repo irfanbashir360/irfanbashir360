@@ -25,93 +25,225 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Expertise
 
-<details open>
-<summary><b>🤖 Data Science & AI</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,anaconda&theme=dark" />
-</p>
+<div align="center">
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           🧠 CORE COMPETENCIES                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Data Science & AI  ████████████████████░░░░  85%  │  Machine Learning Expert ║
+║  Mobile Development ██████████████████████░░  95%  │  Flutter Specialist      ║
+║  Backend Systems    █████████████████░░░░░░░  75%  │  API Architecture        ║
+║  IoT & Hardware     ████████████████░░░░░░░░  70%  │  Embedded Systems        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-**ML/DL:** TensorFlow, PyTorch, Scikit-learn, Keras
+</div>
 
-**Data Analysis:** Pandas, NumPy, SciPy
+### 🤖 Data Science & Artificial Intelligence
 
-**Visualization:** Power BI, Matplotlib, Seaborn, Plotly
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r&theme=dark" />
+</div>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Irfan Bashir"
+        self.role = "Data Scientist & ML Engineer"
+        
+    def skills(self):
+        return {
+            "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "XGBoost"],
+            "data_analysis": ["Pandas", "NumPy", "SciPy", "Statsmodels"],
+            "visualization": ["Power BI", "Matplotlib", "Seaborn", "Plotly", "Tableau"],
+            "big_data": ["Apache Spark", "Hadoop", "Databricks"],
+            "nlp": ["NLTK", "spaCy", "Transformers", "Hugging Face"],
+            "deep_learning": ["CNN", "RNN", "LSTM", "GANs", "Transformers"]
+        }
+    
+    def current_focus(self):
+        return "MSc Data Science @ University of South Wales"
+```
 
-**Big Data:** Apache Spark, Hadoop
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</div>
 
-**NLP:** NLTK, spaCy, Transformers
+---
 
-</details>
+### 📱 Mobile Development & Flutter
 
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin&theme=dark" />
+</div>
+```dart
+class FlutterDeveloper {
+  final String name = "Irfan Bashir";
+  final int yearsOfExperience = 5;
+  
+  Map<String, dynamic> get expertise => {
+    "frameworks": ["Flutter", "React Native"],
+    "state_management": ["BLoC", "Cubit", "Provider", "Riverpod", "GetX"],
+    "architecture": ["MVC", "MVVM", "MVP", "Clean Architecture"],
+    "backend_integration": ["Firebase", "Supabase", "REST APIs", "GraphQL"],
+    "local_storage": ["SQLite", "Hive", "SharedPreferences", "Drift"],
+    "deployment": ["App Store", "Google Play", "TestFlight", "Firebase Distribution"],
+    "specialties": ["Offline-First Apps", "Bluetooth Integration", "Real-time Features"]
+  };
+  
+  List<String> get achievements => [
+    "Led development of multi-platform healthcare apps",
+    "Built offline ticketing system for Pakistan Railways",
+    "Created social platform with 10K+ users"
+  ];
+}
+```
 
-**Framework:** Flutter, React Native
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
 
-**State Management:** BLoC, Cubit, Provider, Riverpod, GetX
+---
 
-**Architecture:** MVC, MVVM, MVP
+### ⚙️ Backend & Cloud Infrastructure
 
-**Backend:** Firebase, Supabase, REST APIs, GraphQL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,aws,gcp,azure&theme=dark" />
+</div>
+```yaml
+backend_expertise:
+  frameworks:
+    - Django & Django REST Framework
+    - Flask & FastAPI
+    - Node.js & Express
+    - ABP Framework (C#)
+    
+  cloud_platforms:
+    aws:
+      - EC2, S3, Lambda
+      - RDS, DynamoDB
+      - API Gateway
+      - AWS IoT Core
+    google_cloud:
+      - Compute Engine
+      - Cloud Functions
+      - Firestore
+      - Google Cloud IoT
+    azure:
+      - Azure Functions
+      - Azure IoT Hub
+      - Cosmos DB
 
-**Storage:** SQLite, Hive, SharedPreferences
+  databases:
+    sql: [PostgreSQL, MySQL, SQLite]
+    nosql: [MongoDB, Firebase Firestore, Redis]
+    
+  devops:
+    containers: [Docker, Kubernetes]
+    ci_cd: [Jenkins, GitHub Actions, Bitbucket Pipelines]
+    tools: [Jira, Postman, Figma, Git]
+```
 
-**Deployment:** App Store, Google Play, TestFlight
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</div>
 
-</details>
+---
 
-<details open>
-<summary><b>⚙️ Backend & DevOps</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,aws,gcp&theme=dark" />
-</p>
+### 🔌 IoT & Embedded Systems
 
-**Backend:** Django, Flask, FastAPI, Node.js, ABP Framework (C#)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
+</div>
+```c
+/* IoT & Hardware Integration Expertise */
 
-**Cloud:** AWS, Google Cloud, Azure
+#define EXPERIENCE_YEARS 5
+#define PROJECTS_COMPLETED 20+
 
-**Containers:** Docker, Kubernetes
+typedef struct {
+    char* platforms[4];
+    char* protocols[4];
+    char* hardware[5];
+    char* applications[4];
+} IoT_Skills;
 
-**Databases:** PostgreSQL, MongoDB, Firebase, SQLite
+IoT_Skills skills = {
+    .platforms = {"AWS IoT Core", "Azure IoT Hub", "Google Cloud IoT", "ThingsBoard"},
+    .protocols = {"MQTT", "BLE", "UART", "HTTP/WebSocket"},
+    .hardware = {"Arduino", "Raspberry Pi", "ESP8266", "ESP32", "STM32"},
+    .applications = {
+        "Smart Metering Systems",
+        "Home Automation",
+        "Industrial Monitoring",
+        "Voice-Controlled Devices"
+    }
+};
 
-**CI/CD:** Jenkins, GitHub Actions, Bitbucket Pipelines
+// Specialties: Real-time data acquisition, Sensor integration, OTA updates
+```
 
-**Tools:** Jira, Postman, Figma
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
 
-</details>
+---
 
-<details open>
-<summary><b>🔌 IoT & Hardware</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,aws,azure&theme=dark" />
-</p>
+### 🔧 Programming Languages
 
-**Platforms:** AWS IoT, Azure IoT, Google Cloud IoT
+<div align="center">
+```
+                    ┌─────────────────────────────────────────────────────────┐
+                    │                   LANGUAGE PROFICIENCY                   │
+                    ├─────────────────────────────────────────────────────────┤
+                    │                                                         │
+   Python     ██████████████████████████████████████████████░░░░  92%        │
+   Dart       ████████████████████████████████████████████████░░  96%        │
+   TypeScript ██████████████████████████████████████░░░░░░░░░░░░  80%        │
+   C++        █████████████████████████████████░░░░░░░░░░░░░░░░░  70%        │
+   Java       ████████████████████████████████████░░░░░░░░░░░░░░  75%        │
+   Kotlin     █████████████████████████████████░░░░░░░░░░░░░░░░░  70%        │
+   R          ████████████████████████████████░░░░░░░░░░░░░░░░░░  68%        │
+   SQL        ██████████████████████████████████████████░░░░░░░░  85%        │
+                    │                                                         │
+                    └─────────────────────────────────────────────────────────┘
+```
 
-**Hardware:** Arduino, Raspberry Pi, ESP8266/ESP32
+</div>
 
-**Protocols:** MQTT, BLE, UART
-
-**Applications:** Home Automation, Home Assistance, Embedded Software Development
-
-</details>
-
-<details>
-<summary><b>🔧 Languages & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,typescript,java,kotlin,cpp,r,git,vscode,postman&theme=dark" />
-</p>
-</details>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
 
 ---
 
@@ -260,19 +392,6 @@ timeline
 - Represented IEEE Society, GCUF
 - Competed against students from universities across Pakistan
 - Secured the title after successfully navigating two competitive rounds
-
----
-
-## 📈 Skills & Expertise
-```text
-Flutter/Dart      ████████████████████░   95%
-Python            ███████████████████░░   90%
-Machine Learning  ██████████████████░░░   85%
-Firebase          ██████████████████░░░   85%
-Data Analysis     █████████████████░░░░   80%
-IoT Integration   ████████████████░░░░░   75%
-Cloud (AWS/GCP)   ████████████████░░░░░   75%
-```
 
 ---
 
