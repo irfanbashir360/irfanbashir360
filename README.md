@@ -28,25 +28,6 @@
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma&theme=dark" />
-</p>
-
-**Framework:** Flutter, React Native
-
-**State Management:** Provider, Riverpod, BLoC, GetX
-
-**Backend:** Firebase, Supabase, REST APIs, GraphQL
-
-**Storage:** SQLite, Hive, SharedPreferences
-
-**Deployment:** App Store, Google Play, TestFlight
-
-</details>
-
-<details open>
 <summary><b>🤖 Data Science & AI</b></summary>
 <br>
 <p align="center">
@@ -66,13 +47,34 @@
 </details>
 
 <details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma&theme=dark" />
+</p>
+
+**Framework:** Flutter, React Native
+
+**State Management:** BLoC, Cubit, Provider, Riverpod, GetX
+
+**Architecture:** MVC, MVVM, MVP
+
+**Backend:** Firebase, Supabase, REST APIs, GraphQL
+
+**Storage:** SQLite, Hive, SharedPreferences
+
+**Deployment:** App Store, Google Play, TestFlight
+
+</details>
+
+<details open>
 <summary><b>⚙️ Backend & DevOps</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,aws,gcp&theme=dark" />
 </p>
 
-**Backend:** Django, Flask, FastAPI, Node.js
+**Backend:** Django, Flask, FastAPI, Node.js, ABP Framework (C#)
 
 **Cloud:** AWS, Google Cloud, Azure
 
@@ -80,7 +82,26 @@
 
 **Databases:** PostgreSQL, MongoDB, Firebase, SQLite
 
-**CI/CD:** Jenkins, GitHub Actions
+**CI/CD:** Jenkins, GitHub Actions, Bitbucket Pipelines
+
+**Tools:** Jira, Postman, Figma
+
+</details>
+
+<details open>
+<summary><b>🔌 IoT & Hardware</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,aws,azure&theme=dark" />
+</p>
+
+**Platforms:** AWS IoT, Azure IoT, Google Cloud IoT
+
+**Hardware:** Arduino, Raspberry Pi, ESP8266/ESP32
+
+**Protocols:** MQTT, BLE, UART
+
+**Applications:** Home Automation, Home Assistance, Embedded Software Development
 
 </details>
 
@@ -88,7 +109,7 @@
 <summary><b>🔧 Languages & Tools</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,typescript,java,cpp,r,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,dart,typescript,java,kotlin,cpp,r,git,vscode,postman&theme=dark" />
 </p>
 </details>
 
@@ -98,12 +119,14 @@
 ```mermaid
 timeline
     title Career Timeline
-    2020 : Solutions Architect @ Sarasota Memorial Hospital
-         : Healthcare IT Infrastructure
-    2021 : Network Engineer @ Pakistan Railways
-         : DevOps Engineer @ Computer Expertz Ltd
+    2019 : Android Developer @ Pakistan Railways
+         : Ticketing & Fare Management System
+    2020 : Flutter Developer @ Sarasota Memorial Hospital
+         : Healthcare Mobile Applications
+    2022 : Lead Flutter Developer @ Computer Expertz Ltd
+         : Social Platform Development
     2024 : Software Engineer @ Xorsel
-         : Voice AI & Flutter Development
+         : Voice AI & IoT Solutions
     2025 : MSc Data Science @ University of South Wales
 ```
 
@@ -116,46 +139,86 @@ timeline
 - 🔗 Implementing REST API integrations and real-time data synchronization
 - 📊 Designing intuitive UI/UX for complex data visualization
 
-### ☁️ Computer Expertz Ltd | DevOps Engineer
-**📍 Jamaica | February 2021 - October 2024**
+### 💻 Computer Expertz Ltd | Lead Flutter Developer
+**📍 Kingston, Jamaica | November 2022 - Present**
 
-- 🚀 Set up and managed CI/CD pipelines to automate application deployment
-- ☁️ Maintained and monitored cloud infrastructure on AWS and Google Cloud
-- 🐳 Worked with Docker to containerize applications for scalable deployment
-- 📊 Implemented monitoring and logging solutions for system performance
-- 👥 Collaborated with development teams to improve deployment processes
+- 📱 Developed "Conversations for Greatness" mobile and web app using Flutter, BLoC, and Cubit patterns
+- 🔐 Integrated OAuth, Firebase, and multimedia features including video/picture posting, DMs, and notifications
+- ⚙️ Built backend services with ABP framework in C# and managed API integrations
+- 👥 Maintained GitHub codebase, managed branching, and supervised junior developers
 
-### 🏥 Sarasota Memorial Hospital | Solutions Architect
-**📍 Florida, USA | September 2020 - August 2022**
+### 🏥 Sarasota Memorial Health Care System | Flutter Developer
+**📍 Florida, USA | September 2020 - November 2022**
 
-- 🏗️ Designed technical solutions and planned infrastructure for healthcare applications
-- 📱 Architected scalable application systems with focus on performance and reliability
-- 🔗 Led integration planning for multiple hospital systems and third-party services
-- 🔐 Ensured security compliance and data protection in healthcare IT infrastructure
+- 📱 Developed three mobile apps for Sarasota Memorial Hospital enhancing patient access across multiple branches
+- 👨‍⚕️ Built features for doctor search and appointment booking with qualifications and experience display
+- 🩺 Implemented symptom checker tool recommending personal doctors or critical care based on user input
+- 🏨 Integrated patient portal with surgery status, event updates, bill payment, careers, and branch locations via Google Maps
 
-### 🌐 Pakistan Railways | Network Engineer
-**📍 Lahore, Pakistan | September 2021 - December 2021**
+### 🚂 Pakistan Railways | Android Developer
+**📍 Lahore, Pakistan | October 2019 - July 2020**
 
-- 🔌 Installed, configured, and maintained network infrastructure
-- 🛡️ Configured routers, switches, and firewalls for network security
-- 📡 Managed LAN/WAN networks and troubleshot connectivity issues
-- 🔒 Implemented VPN and remote access solutions
+- 🎫 Created Flutter app enabling seamless online and offline ticketing for Pakistan Railways
+- 📴 Implemented offline ticketing functionality for remote areas with record sync when internet restored
+- 🖨️ Integrated Bluetooth support for thermal printers to print tickets and issue fines on the spot
+- 🚉 Included features for fare calculations, train schedules, routes, and seat records management
 
 ---
 
 ## 🚀 Featured Projects
 
+### 💬 Conversations for Greatness
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+</p>
+
+- 📱 Social platform mobile and web app built with Flutter
+- 🎬 Multimedia features - video/picture posting and sharing
+- 💬 Direct messaging and real-time notifications
+- 🔐 OAuth and Firebase authentication integration
+- ⚙️ Backend powered by ABP Framework in C#
+
+### 🏥 Sarasota Memorial Hospital Apps
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+- 🏨 Three mobile apps for multi-branch hospital system
+- 👨‍⚕️ Doctor search with qualifications and appointment booking
+- 🩺 AI-powered symptom checker with care recommendations
+- 📋 Patient portal - surgery status, events, bill payment
+- 🗺️ Branch locations with Google Maps integration
+- 💼 Career opportunities section
+
+### 🚂 Pakistan Railways Ticketing System
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+
+- 🎫 Online and offline ticketing system for Pakistan Railways
+- 📴 Offline mode for remote areas with automatic sync
+- 🖨️ Bluetooth thermal printer integration for instant tickets
+- 💰 Fare calculation and fine issuance on the spot
+- 🚉 Train schedules, routes, and seat management
+
 ### 📊 Uniq Meter App
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internet-of-things&logoColor=white"/>
 </p>
 
-- 📱 Comprehensive metering & monitoring application built with Flutter
-- 🔌 Gateway integration and device management features
+- 📱 Comprehensive metering & monitoring application
+- 🔌 Gateway integration and device management
 - 📡 Real-time data acquisition from APIs (Netbiter)
-- 📄 PDF generation and professional reporting features
+- 📄 PDF generation and professional reporting
 - 🔐 Firebase authentication and cloud storage
 
 ### 🤖 AI Restaurant Kiosk
@@ -169,33 +232,6 @@ timeline
 - 🧠 AI-driven menu recommendations
 - 💳 Seamless payment integration
 - 📋 Order management dashboard
-- 🎨 Custom UI/UX design
-
-### 🎓 UniConnect South Wales
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-
-- 👥 Student networking platform for university students
-- 💬 Real-time messaging system
-- 📅 Event management features
-- 🏫 Campus-specific functionality
-- 🔔 Push notifications
-
-### 🧠 ML Pipeline Platform
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-- 📈 End-to-end ML pipelines for predictive analytics
-- 🎯 Achieved 92% classification accuracy
-- 🚀 Flask/Django API deployment
-- 📊 Automated model selection
-- ⚡ Hyperparameter optimization
 
 ---
 
@@ -222,14 +258,8 @@ timeline
 **Science Bee'19 | NUST, Islamabad**
 
 - Represented IEEE Society, GCUF
-- Competed against top students from universities across Pakistan
-- Secured first place after two competitive rounds
-
-### 🥈 Runner-up Speed Programming
-**Comsat University | Wah Cantt**
-
-- National-level programming competition
-- Demonstrated exceptional algorithmic problem-solving skills
+- Competed against students from universities across Pakistan
+- Secured the title after successfully navigating two competitive rounds
 
 ---
 
@@ -240,8 +270,8 @@ Python            ███████████████████░�
 Machine Learning  ██████████████████░░░   85%
 Firebase          ██████████████████░░░   85%
 Data Analysis     █████████████████░░░░   80%
+IoT Integration   ████████████████░░░░░   75%
 Cloud (AWS/GCP)   ████████████████░░░░░   75%
-DevOps            ███████████████░░░░░░   70%
 ```
 
 ---
