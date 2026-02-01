@@ -25,242 +25,80 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Expertise
+## 🛠️ Tech Stack
 
-<div align="center">
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           🧠 CORE COMPETENCIES                                ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Data Science & AI  ████████████████████░░░░  85%  │  Machine Learning Expert ║
-║  Mobile Development ██████████████████████░░  95%  │  Flutter Specialist      ║
-║  Backend Systems    █████████████████░░░░░░░  75%  │  API Architecture        ║
-║  IoT & Hardware     ████████████████░░░░░░░░  70%  │  Embedded Systems        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### 🤖 Data Science & Artificial Intelligence
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r&theme=dark" />
-</div>
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Irfan Bashir"
-        self.role = "Data Scientist & ML Engineer"
-        
-    def skills(self):
-        return {
-            "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "XGBoost"],
-            "data_analysis": ["Pandas", "NumPy", "SciPy", "Statsmodels"],
-            "visualization": ["Power BI", "Matplotlib", "Seaborn", "Plotly", "Tableau"],
-            "big_data": ["Apache Spark", "Hadoop", "Databricks"],
-            "nlp": ["NLTK", "spaCy", "Transformers", "Hugging Face"],
-            "deep_learning": ["CNN", "RNN", "LSTM", "GANs", "Transformers"]
-        }
-    
-    def current_focus(self):
-        return "MSc Data Science @ University of South Wales"
-```
-
-<div align="center">
+### 🤖 Data Science & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</div>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
----
-
-### 📱 Mobile Development & Flutter
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin&theme=dark" />
-</div>
-```dart
-class FlutterDeveloper {
-  final String name = "Irfan Bashir";
-  final int yearsOfExperience = 5;
-  
-  Map<String, dynamic> get expertise => {
-    "frameworks": ["Flutter", "React Native"],
-    "state_management": ["BLoC", "Cubit", "Provider", "Riverpod", "GetX"],
-    "architecture": ["MVC", "MVVM", "MVP", "Clean Architecture"],
-    "backend_integration": ["Firebase", "Supabase", "REST APIs", "GraphQL"],
-    "local_storage": ["SQLite", "Hive", "SharedPreferences", "Drift"],
-    "deployment": ["App Store", "Google Play", "TestFlight", "Firebase Distribution"],
-    "specialties": ["Offline-First Apps", "Bluetooth Integration", "Real-time Features"]
-  };
-  
-  List<String> get achievements => [
-    "Led development of multi-platform healthcare apps",
-    "Built offline ticketing system for Pakistan Railways",
-    "Created social platform with 10K+ users"
-  ];
-}
-```
-
-<div align="center">
+### 📱 Mobile Development
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
----
-
-### ⚙️ Backend & Cloud Infrastructure
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,docker,aws,gcp,azure&theme=dark" />
-</div>
-```yaml
-backend_expertise:
-  frameworks:
-    - Django & Django REST Framework
-    - Flask & FastAPI
-    - Node.js & Express
-    - ABP Framework (C#)
-    
-  cloud_platforms:
-    aws:
-      - EC2, S3, Lambda
-      - RDS, DynamoDB
-      - API Gateway
-      - AWS IoT Core
-    google_cloud:
-      - Compute Engine
-      - Cloud Functions
-      - Firestore
-      - Google Cloud IoT
-    azure:
-      - Azure Functions
-      - Azure IoT Hub
-      - Cosmos DB
-
-  databases:
-    sql: [PostgreSQL, MySQL, SQLite]
-    nosql: [MongoDB, Firebase Firestore, Redis]
-    
-  devops:
-    containers: [Docker, Kubernetes]
-    ci_cd: [Jenkins, GitHub Actions, Bitbucket Pipelines]
-    tools: [Jira, Postman, Figma, Git]
-```
-
-<div align="center">
+### ⚙️ Backend & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
----
-
-### 🔌 IoT & Embedded Systems
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
-</div>
-```c
-/* IoT & Hardware Integration Expertise */
-
-#define EXPERIENCE_YEARS 5
-#define PROJECTS_COMPLETED 20+
-
-typedef struct {
-    char* platforms[4];
-    char* protocols[4];
-    char* hardware[5];
-    char* applications[4];
-} IoT_Skills;
-
-IoT_Skills skills = {
-    .platforms = {"AWS IoT Core", "Azure IoT Hub", "Google Cloud IoT", "ThingsBoard"},
-    .protocols = {"MQTT", "BLE", "UART", "HTTP/WebSocket"},
-    .hardware = {"Arduino", "Raspberry Pi", "ESP8266", "ESP32", "STM32"},
-    .applications = {
-        "Smart Metering Systems",
-        "Home Automation",
-        "Industrial Monitoring",
-        "Voice-Controlled Devices"
-    }
-};
-
-// Specialties: Real-time data acquisition, Sensor integration, OTA updates
-```
-
-<div align="center">
+### 🔌 IoT & Hardware
+<p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
+</p>
 
----
-
-### 🔧 Programming Languages
-
-<div align="center">
-```
-                    ┌─────────────────────────────────────────────────────────┐
-                    │                   LANGUAGE PROFICIENCY                   │
-                    ├─────────────────────────────────────────────────────────┤
-                    │                                                         │
-   Python     ██████████████████████████████████████████████░░░░  92%        │
-   Dart       ████████████████████████████████████████████████░░  96%        │
-   TypeScript ██████████████████████████████████████░░░░░░░░░░░░  80%        │
-   C++        █████████████████████████████████░░░░░░░░░░░░░░░░░  70%        │
-   Java       ████████████████████████████████████░░░░░░░░░░░░░░  75%        │
-   Kotlin     █████████████████████████████████░░░░░░░░░░░░░░░░░  70%        │
-   R          ████████████████████████████████░░░░░░░░░░░░░░░░░░  68%        │
-   SQL        ██████████████████████████████████████████░░░░░░░░  85%        │
-                    │                                                         │
-                    └─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</div>
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Professional Journey
-```mermaid
-timeline
-    title Career Timeline
-    2019 : Android Developer @ Pakistan Railways
-         : Ticketing & Fare Management System
-    2020 : Flutter Developer @ Sarasota Memorial Hospital
-         : Healthcare Mobile Applications
-    2022 : Lead Flutter Developer @ Computer Expertz Ltd
-         : Social Platform Development
-    2024 : Software Engineer @ Xorsel
-         : Voice AI & IoT Solutions
-    2025 : MSc Data Science @ University of South Wales
-```
 
 ### 🚀 Xorsel | Software Engineer
 **📍 Cardiff, UK | Present**
@@ -325,7 +163,6 @@ timeline
 - 🩺 AI-powered symptom checker with care recommendations
 - 📋 Patient portal - surgery status, events, bill payment
 - 🗺️ Branch locations with Google Maps integration
-- 💼 Career opportunities section
 
 ### 🚂 Pakistan Railways Ticketing System
 <p>
@@ -344,7 +181,7 @@ timeline
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internet-of-things&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white"/>
 </p>
 
 - 📱 Comprehensive metering & monitoring application
@@ -372,9 +209,7 @@ timeline
 ### 📚 Master of Science in Data Science
 **University of South Wales** | Cardiff, UK | 2025
 
-*Focus: Machine Learning, Big Data Analytics, Statistical Modeling*
-
-### 🏅 Professional Certifications
+### 🏅 Certifications
 
 🔴 **HCIP-Datacom** (Advanced Routing) - Huawei
 
@@ -384,7 +219,7 @@ timeline
 
 ---
 
-## 🏆 Achievements & Awards
+## 🏆 Achievements
 
 ### 🥇 Speed Programming Champion
 **Science Bee'19 | NUST, Islamabad**
@@ -398,8 +233,6 @@ timeline
 ## 🤝 Let's Connect!
 
 <div align="center">
-
-<p>I'm always excited to collaborate on innovative projects!</p>
 
 <a href="mailto:codecrud360@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -423,35 +256,13 @@ timeline
 <img src="https://img.shields.io/badge/ML_Engineering-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Freelance-00C853?style=for-the-badge"/>
 
-</div>
-
 ---
 
-<div align="center">
+> *"Transforming ideas into apps, data into insights."*
 
-### 💭 Philosophy
-
-> *"Transforming ideas into apps, data into insights, and challenges into opportunities."*
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<div align="center">
-
-**⭐ Star my repositories if you find them useful! ⭐**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-
-</div>
