@@ -16,29 +16,6 @@
 
 I'm a **Data Scientist** and **Software Engineer** currently pursuing my **Master of Data Science** at the University of South Wales. With over 5 years of experience in software engineering, cloud infrastructure, and data networking, I specialize in building scalable data pipelines, deploying ML models, and optimizing cloud-based systems.
 
-```python
-class IrfanBashir:
-    def __init__(self):
-        self.name = "Irfan Bashir"
-        self.role = "Data Scientist & Software Engineer"
-        self.location = "Cardiff, United Kingdom"
-        self.education = "MSc Data Science - University of South Wales"
-        self.specializations = [
-            "Machine Learning & AI",
-            "Cloud Infrastructure & DevOps",
-            "Data Engineering & Analytics",
-            "Network Engineering"
-        ]
-    
-    def get_current_focus(self):
-        return {
-            "learning": ["Advanced ML Algorithms", "Deep Learning", "Big Data Technologies"],
-            "working_on": ["ML Pipelines", "Cloud Solutions", "Data Analytics Projects"],
-            "collaborating_on": ["Open Source ML Projects", "Data Science Research"]
-        }
-```
-
----
 
 ## 🎯 Core Competencies
 
