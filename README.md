@@ -121,7 +121,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
   </tr>
   <tr>
     <td align="center" width="90"><img src="assets/icons/sarasota.png" width="56" alt="Sarasota Memorial"/></td>
-    <td><a href="https://apps.apple.com/pk/app/sarasota-memorial/id397478168"><b>Sarasota Memorial Hospital Apps</b></a><br/>Three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store &amp; Google Play.</td>
+    <td><b>Sarasota Memorial Hospital Apps</b><br/>Three Flutter healthcare apps — doctor search, appointment booking, and a rule-based symptom checker. &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.soln.SE35BCA74A3BE95A854E67E90FEB1DBB3">Play Store</a> · <a href="https://apps.apple.com/pk/app/sarasota-memorial/id397478168">App Store</a></td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="assets/icons/railways.png" width="56" alt="Pakistan Railways"/></td>
