@@ -8,9 +8,9 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-334155?style=flat-square&logo=medium&logoColor=white"/></a>
 </p>
 
 </div>
@@ -19,13 +19,10 @@
 
 ## 🎯 About Me
 
-AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML**. Master of Data Science candidate experienced in taking models from evaluation to deployment — vector search, LLM orchestration, and cloud deployment on AWS/GCP.
+AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML** — taking models from evaluation to deployment with vector search, LLM orchestration, and cloud on AWS/GCP.
 
-> 🔦 **Flagship project → [Transaction Classifier](https://github.com/irfanbashir360/txn-classifier):** an agentic LLM pipeline reaching **87.8% accuracy** across 36 accounting categories, with confidence-based human-review routing and layered anti-hallucination guardrails.
-
-- 🎓 MSc Data Science @ University of South Wales · 🧠 Huawei **HCIA-AI** certified
+- 🎓 MSc Data Science @ [University of South Wales](https://www.southwales.ac.uk) · 🧠 Huawei **HCIA-AI** certified
 - 🏗️ Backend, mobile & cloud engineering background — I ship, not just prototype
-- 📍 Cardiff, UK · open to **AI/ML Engineer · Data Scientist** roles
 
 ---
 
@@ -106,7 +103,6 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-005571?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -202,8 +198,3 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 <sub>Open to <b>AI/ML Engineer</b> &amp; <b>Data Scientist</b> roles · Cardiff, UK · Remote</sub>
 
 </div>
-
----
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
