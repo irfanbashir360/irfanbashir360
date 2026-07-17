@@ -8,9 +8,9 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-334155?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 </div>
