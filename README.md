@@ -106,11 +106,28 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ## 🚀 Featured Projects
 
-- 🤖 **[Transaction Classifier](https://github.com/irfanbashir360/txn-classifier)** — agentic LLM pipeline classifying bank transactions into 36 accounting categories at 87.8% accuracy.
-- <img src="assets/icons/easi.png" height="20" align="center"/> **EASI APP** — Enterprise Flutter field-metering platform: offline-first QR-driven capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel report generation.
-- <img src="assets/icons/mycfg.png" height="20" align="center"/> **[Conversations for Greatness](https://www.joanduncanfoundation.org/conversations-cfg)** — Flutter social platform with multimedia posts, DMs, and real-time notifications · [Play Store](https://play.google.com/store/apps/details?id=com.app.mycfg) · [App Store](https://apps.apple.com/us/app/joan-duncan-foundation-mycfg/id6736577915)
-- <img src="assets/icons/sarasota.png" height="20" align="center"/> **[Sarasota Memorial Hospital Apps](https://apps.apple.com/pk/app/sarasota-memorial/id397478168)** — three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store & Google Play.
-- 🚂 **Pakistan Railways Ticketing** — offline-first mobile ticketing with Bluetooth thermal-printer support.
+<table>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/txn.png" width="56" alt="Transaction Classifier"/></td>
+    <td><a href="https://github.com/irfanbashir360/txn-classifier"><b>Transaction Classifier</b></a><br/>Agentic LLM pipeline classifying bank transactions into 36 accounting categories at <b>87.8% accuracy</b> — RAG merchant memory, confidence-based human-review routing, and layered anti-hallucination guardrails.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/easi.png" width="56" alt="EASI"/></td>
+    <td><b>EASI APP</b><br/>Enterprise Flutter field-metering platform — offline-first QR capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel reporting.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/mycfg.png" width="56" alt="Conversations for Greatness"/></td>
+    <td><a href="https://www.joanduncanfoundation.org/conversations-cfg"><b>Conversations for Greatness</b></a><br/>Flutter social platform with multimedia posts, DMs, and real-time notifications. &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.app.mycfg">Play Store</a> · <a href="https://apps.apple.com/us/app/joan-duncan-foundation-mycfg/id6736577915">App Store</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/sarasota.png" width="56" alt="Sarasota Memorial"/></td>
+    <td><a href="https://apps.apple.com/pk/app/sarasota-memorial/id397478168"><b>Sarasota Memorial Hospital Apps</b></a><br/>Three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store &amp; Google Play.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/railways.png" width="56" alt="Pakistan Railways"/></td>
+    <td><b>Pakistan Railways Ticketing</b><br/>Offline-first mobile ticketing with Bluetooth thermal-printer support and on-the-spot fine issuance.</td>
+  </tr>
+</table>
 
 ---
 
