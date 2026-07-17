@@ -21,13 +21,6 @@
 
 AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML** — taking models from evaluation to deployment with vector search, LLM orchestration, and cloud on AWS/GCP.
 
-<p>
-  <a href="https://www.southwales.ac.uk"><img src="https://img.shields.io/badge/🎓_MSc-Data_Science_@_USW-6366F1?style=flat-square&labelColor=1E293B"/></a>
-  <img src="https://img.shields.io/badge/Huawei-HCIA--AI_Certified-C7000B?style=flat-square&logo=huawei&logoColor=white&labelColor=1E293B"/>
-  <img src="https://img.shields.io/badge/🏗️_Engineering-Backend_·_Mobile_·_Cloud-0EA5E9?style=flat-square&labelColor=1E293B"/>
-  <img src="https://img.shields.io/badge/📍_Cardiff,_UK-Open_to_work-16A34A?style=flat-square&labelColor=1E293B"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
