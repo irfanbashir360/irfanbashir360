@@ -145,38 +145,31 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 <table>
   <tr>
-    <td align="center" width="90"><img src="assets/icons/usw.png" width="60" alt="University of South Wales"/></td>
-    <td><b>MSc Data Science</b><br/><a href="https://www.southwales.ac.uk">University of South Wales</a> · Cardiff, UK · 2025 – 2026</td>
+    <td align="center" width="90" valign="top"><img src="assets/icons/usw.png" width="60" alt="University of South Wales"/></td>
+    <td>
+      <b>MSc Data Science</b><br/>
+      <a href="https://www.southwales.ac.uk">University of South Wales</a> · Cardiff, UK · 2025 – 2026
+      <details>
+        <summary>📄 <b>Thesis</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square" alt="In Progress"/></summary>
+        <br/>
+        Dissertation underway as part of my MSc — title and abstract coming soon.
+        <!-- ✏️ Replace the line above when ready: **<Thesis Title>** — <one-line focus>. Methods: <RAG · Transformers · …>. Supervisor: <name>. [Read the thesis](<link>) -->
+      </details>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="assets/icons/gcuf.png" width="60" alt="GCUF"/></td>
-    <td><b>BS Software Engineering</b><br/><a href="https://gcuf.edu.pk">Government College University Faisalabad (GCUF)</a> · Pakistan · 2018 – 2022</td>
+    <td align="center" width="90" valign="top"><img src="assets/icons/gcuf.png" width="60" alt="GCUF"/></td>
+    <td>
+      <b>BS Software Engineering</b><br/>
+      <a href="https://gcuf.edu.pk">Government College University Faisalabad (GCUF)</a> · Pakistan · 2018 – 2022
+      <details>
+        <summary>📄 <b>Final Year Project</b> &nbsp;·&nbsp; Object-Tracking Drone</summary>
+        <br/>
+        Real-time detection and tracking of a targeted moving object using image processing on a Raspberry Pi (Python) — an autonomous drone that locks onto and follows its target.
+      </details>
+    </td>
   </tr>
 </table>
-
-### 📄 Master's Thesis
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MSc%20Data%20Science-2026-6366F1?style=flat-square"/>
-
-> Dissertation underway as part of my MSc Data Science at the University of South Wales — title and abstract coming soon.
-
-<!--
-  ✏️  THESIS TEMPLATE — replace the blockquote above with your details when ready:
-
-  **<Thesis Title>**
-  <one-line research question or focus>
-
-  <img src="https://img.shields.io/badge/Methods-RAG%20%C2%B7%20Transformers-6E56CF?style=flat-square"/>  ← edit the method badges
-
-  <details>
-    <summary>📖 Abstract</summary>
-    <br/>
-    <2–4 sentence summary of the problem, approach, and result.>
-  </details>
-
-  Supervisor: <name>  ·  [Read the thesis](<link>)
--->
 
 ### 🏅 Certifications (Huawei)
 
