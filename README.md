@@ -107,7 +107,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 ## 🚀 Featured Projects
 
 - 🤖 **[Transaction Classifier](https://github.com/irfanbashir360/txn-classifier)** — agentic LLM pipeline classifying bank transactions into 36 accounting categories at 87.8% accuracy.
-- 📊 **EASP APP** — Enterprise Flutter field-metering platform: offline-first QR-driven capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel report generation.
+- 📊 **EASI APP** — Enterprise Flutter field-metering platform: offline-first QR-driven capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel report generation.
 - 💬 **[Conversations for Greatness](https://www.joanduncanfoundation.org/conversations-cfg)** — Flutter social platform with multimedia posts, DMs, and real-time notifications · [Play Store](https://play.google.com/store/apps/details?id=com.app.mycfg) · [App Store](https://apps.apple.com/us/app/joan-duncan-foundation-mycfg/id6736577915)
 - 🏥 **[Sarasota Memorial Hospital Apps](https://apps.apple.com/pk/app/sarasota-memorial/id397478168)** — three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store & Google Play.
 - 🚂 **Pakistan Railways Ticketing** — offline-first mobile ticketing with Bluetooth thermal-printer support.
