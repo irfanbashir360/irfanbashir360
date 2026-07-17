@@ -143,11 +143,16 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ## 🎓 Education & Certifications
 
-### 📚 MSc Data Science
-**[University of South Wales](https://www.southwales.ac.uk)** · Cardiff, UK · 2025 – 2026
-
-### 📚 BS Software Engineering
-**Government College University Faisalabad (GCUF)** · Pakistan · 2018 – 2022
+<table>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/usw.png" width="60" alt="University of South Wales"/></td>
+    <td><b>MSc Data Science</b><br/><a href="https://www.southwales.ac.uk">University of South Wales</a> · Cardiff, UK · 2025 – 2026</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="assets/icons/gcuf.png" width="60" alt="GCUF"/></td>
+    <td><b>BS Software Engineering</b><br/>Government College University Faisalabad (GCUF) · Pakistan · 2018 – 2022</td>
+  </tr>
+</table>
 
 ### 🏅 Certifications (Huawei)
 
