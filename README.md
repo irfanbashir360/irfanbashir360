@@ -131,33 +131,6 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ---
 
-## 💼 Professional Journey
-
-### 💻 Computer Expertz Ltd | Lead Flutter Developer
-**📍 Kingston, Jamaica (Remote) | November 2022 – December 2025**
-
-- 📱 Built "Conversations for Greatness" social app with Flutter (BLoC/Cubit patterns)
-- 🔐 Integrated OAuth, Firebase, and multimedia features — video/picture posting, DMs, and notifications
-- 🔗 Integrated REST APIs with backend teams (Dio/HTTP/Chopper)
-- 👥 Maintained the GitHub codebase, managed branching & code reviews, and mentored junior developers
-
-### 🏥 Sarasota Memorial Health Care System | Flutter Developer
-**📍 Florida, USA (Remote) | September 2020 – November 2022**
-
-- 📱 Developed three Flutter healthcare apps improving patient access across hospital branches
-- 👨‍⚕️ Built doctor search and appointment booking with qualifications and experience display
-- 🩺 Implemented a rule-based symptom checker recommending primary or critical care
-- 🏨 Integrated a patient portal — surgery status, bill payment, and branch locations via Google Maps
-
-### 🚂 Pakistan Railways | Android Developer
-**📍 Lahore, Pakistan | October 2019 – July 2020**
-
-- 🎫 Built an offline-first mobile ticketing app with record sync when internet was restored
-- 🖨️ Integrated Bluetooth thermal printers to print tickets and issue fines on the spot
-- 🚉 Implemented fare calculations, train schedules, routes, and seat-record management
-
----
-
 ## 🎓 Education & Certifications
 
 ### 📚 MSc Data Science
