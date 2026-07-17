@@ -122,7 +122,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 ## 🚀 Featured Projects
 
 - 🤖 **[Transaction Classifier](https://github.com/irfanbashir360/txn-classifier)** — agentic LLM pipeline classifying bank transactions into 36 accounting categories at 87.8% accuracy.
-- 💬 **Conversations for Greatness** — Flutter social platform with multimedia posts, DMs, and real-time notifications.
+- 💬 **[Conversations for Greatness](https://play.google.com/store/apps/details?id=com.app.mycfg)** — Flutter social platform with multimedia posts, DMs, and real-time notifications · [App Store](https://apps.apple.com/us/app/joan-duncan-foundation-mycfg/id6736577915)
 - 🏥 **[Sarasota Memorial Hospital Apps](https://apps.apple.com/pk/app/sarasota-memorial/id397478168)** — three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store & Google Play.
 - 🚂 **Pakistan Railways Ticketing** — offline-first mobile ticketing with Bluetooth thermal-printer support.
 - 📊 **Uniq Meter App** — IoT metering & monitoring app with real-time data acquisition and PDF reporting.
