@@ -21,9 +21,6 @@
 
 AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML** — taking models from evaluation to deployment with vector search, LLM orchestration, and cloud on AWS/GCP.
 
-- 🎓 MSc Data Science @ [University of South Wales](https://www.southwales.ac.uk) · 🧠 Huawei **HCIA-AI** certified
-- 🏗️ Backend, mobile & cloud engineering background — I ship, not just prototype
-
 ---
 
 ## 🛠️ Tech Stack
