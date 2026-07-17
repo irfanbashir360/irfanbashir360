@@ -17,17 +17,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML** — taking models from evaluation to deployment with vector search, LLM orchestration, and cloud on AWS/GCP.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
-    <td valign="top" align="right"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM</b></td>
+    <td valign="top" align="right"><b>AI&nbsp;/&nbsp;LLM</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -41,7 +41,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>📊&nbsp;Data&nbsp;Science</b></td>
+    <td valign="top" align="right"><b>Data&nbsp;Science</b></td>
     <td>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -53,7 +53,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>⚙️&nbsp;Backend&nbsp;&amp;&nbsp;Cloud</b></td>
+    <td valign="top" align="right"><b>Backend&nbsp;&amp;&nbsp;Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -65,7 +65,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>🗄️&nbsp;Databases</b></td>
+    <td valign="top" align="right"><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -75,7 +75,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>📱&nbsp;Mobile</b></td>
+    <td valign="top" align="right"><b>Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -85,7 +85,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>🔧&nbsp;Tools&nbsp;&amp;&nbsp;DevOps</b></td>
+    <td valign="top" align="right"><b>Tools&nbsp;&amp;&nbsp;DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -96,7 +96,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
     </td>
   </tr>
   <tr>
-    <td valign="top" align="right"><b>🌱&nbsp;Learning</b></td>
+    <td valign="top" align="right"><b>Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -106,7 +106,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -133,7 +133,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 <table>
   <tr>
@@ -142,7 +142,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
       <b>MSc Data Science</b><br/>
       <a href="https://www.southwales.ac.uk">University of South Wales</a> · Cardiff, UK · 2025 – 2026
       <details>
-        <summary>📄 <b>Thesis</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square" alt="In Progress"/></summary>
+        <summary><b>Thesis</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square" alt="In Progress"/></summary>
         <br/>
         Dissertation underway as part of my MSc — title and abstract coming soon.
         <!-- ✏️ Replace the line above when ready: **<Thesis Title>** — <one-line focus>. Methods: <RAG · Transformers · …>. Supervisor: <name>. [Read the thesis](<link>) -->
@@ -155,7 +155,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
       <b>BS Software Engineering</b><br/>
       <a href="https://gcuf.edu.pk">Government College University Faisalabad (GCUF)</a> · Pakistan · 2018 – 2022
       <details>
-        <summary>📄 <b>Final Year Project</b> &nbsp;·&nbsp; Object-Tracking Drone</summary>
+        <summary><b>Final Year Project</b> &nbsp;·&nbsp; Object-Tracking Drone</summary>
         <br/>
         Real-time detection and tracking of a targeted moving object using image processing on a Raspberry Pi (Python) — an autonomous drone that locks onto and follows its target.
       </details>
@@ -163,21 +163,21 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
   </tr>
 </table>
 
-### 🏅 Certifications (Huawei)
+### Certifications (Huawei)
 
-🟢 **HCIA-AI** — Artificial Intelligence
+**HCIA-AI** — Artificial Intelligence
 
-🔴 **HCIP-Datacom** — Advanced Routing
+**HCIP-Datacom** — Advanced Routing
 
-🟠 **HCIA-Datacom**
+**HCIA-Datacom**
 
 ---
 
-## 🏆 Achievements & Leadership
+## Achievements & Leadership
 
-- 🥇 **Winner** — Speed Programming Competition, Science Bee '19, NUST Islamabad *(national level)*
-- 🥈 **Runner-Up** — Speed Programming Competition, COMSATS University *(national level)*
-- 🧑‍💼 **General Secretary** — IEEE Computer Society, GCUF (2020 – 2022)
+- **Winner** — Speed Programming Competition, Science Bee '19, NUST Islamabad *(national level)*
+- **Runner-Up** — Speed Programming Competition, COMSATS University *(national level)*
+- **General Secretary** — IEEE Computer Society, GCUF (2020 – 2022)
 
 ---
 
