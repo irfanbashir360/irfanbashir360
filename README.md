@@ -188,35 +188,18 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ---
 
-## 🤝 Let's Connect!
+## Let's connect
 
 <div align="center">
 
-<a href="mailto:codecrud360@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/irfan-bashir360">
-  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://medium.com/@codecrud360">
-  <img src="https://img.shields.io/badge/Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="tel:+447838541003">
-  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-334155?style=flat-square&logo=medium&logoColor=white"/></a>
+<a href="tel:+447838541003"><img src="https://img.shields.io/badge/Phone-334155?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 
-<br><br>
+<br/>
 
-### 💼 Open For Opportunities
-
-<img src="https://img.shields.io/badge/AI%2FML_Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Science-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_%2F_Agentic_AI-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flutter_Development-02569B?style=for-the-badge"/>
-
----
-
-> *"Taking ML from evaluation to deployment — agentic LLM pipelines, RAG, applied ML."*
+<sub>Open to <b>AI/ML Engineer</b> &amp; <b>Data Scientist</b> roles · Cardiff, UK · Remote</sub>
 
 </div>
 
