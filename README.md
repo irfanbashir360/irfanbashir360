@@ -1,51 +1,59 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Bashir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20|%20Software%20Engineer%20|%20Mobile%20App%20Developer&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Bashir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20|%20Data%20Scientist%20|%20Software%20Engineer&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Mobile+Solutions+%F0%9F%93%B1;Transforming+Data+Into+Insights+%F0%9F%93%8A;5%2B+Years+of+Engineering+Excellence+%F0%9F%9A%80;Award-Winning+Developer+%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Agentic+LLM+Pipelines;RAG+%26+Vector+Search+for+Applied+ML;From+Model+Evaluation+to+Deployment;5%2B+Years+of+Production+Python;MSc+Data+Science+Candidate" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
   <a href="mailto:codecrud360@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/irfan-bashir360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@codecrud360"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://github.com/irfan-bashir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/irfanbashir360"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<!-- Profile Views & Followers -->
 
 </div>
 
 ---
 
+## 🎯 About Me
+
+AI/ML Engineer & Data Scientist with **5+ years building production Python systems**, now specializing in **agentic LLM pipelines, RAG, and applied ML**. Master of Data Science candidate experienced in taking models from evaluation to deployment — vector search, LLM orchestration, and cloud deployment on AWS/GCP.
+
+> 🔦 **Flagship project → [Transaction Classifier](https://github.com/irfanbashir360/txn-classifier):** an agentic LLM pipeline reaching **87.8% accuracy** across 36 accounting categories, with confidence-based human-review routing and layered anti-hallucination guardrails.
+
+- 🎓 MSc Data Science @ University of South Wales · 🧠 Huawei **HCIA-AI** certified
+- 🏗️ Backend, mobile & cloud engineering background — I ship, not just prototype
+- 📍 Cardiff, UK · open to **AI/ML Engineer · Data Scientist** roles
+
+---
+
 ## 🛠️ Tech Stack
 
-### 🤖 Data Science & AI
+### 🤖 AI / LLM Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Search-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DeepEval-6E56CF?style=for-the-badge"/>
+</p>
+
+### 📊 Data Science & ML
+<p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Cloud
@@ -53,11 +61,10 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -69,82 +76,78 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🔌 IoT & Hardware
+### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-005571?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💼 Professional Journey
+## 📈 GitHub Stats
 
-### 🚀 Xorsel | Software Engineer
-**📍 Cardiff, UK | Present**
+<div align="center">
 
-- 📱 Developing cross-platform mobile applications using Flutter & Dart
-- 🎙️ Building Voice AI solutions and custom software for businesses
-- 🔌 Creating IoT-integrated metering and monitoring applications
-- 🔗 Implementing REST API integrations and real-time data synchronization
-- 📊 Designing intuitive UI/UX for complex data visualization
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=irfanbashir360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanbashir360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-### 💻 Computer Expertz Ltd | Lead Flutter Developer
-**📍 Kingston, Jamaica | November 2022 - Present**
+<br/>
 
-- 📱 Developed "Conversations for Greatness" mobile and web app using Flutter, BLoC, and Cubit patterns
-- 🔐 Integrated OAuth, Firebase, and multimedia features including video/picture posting, DMs, and notifications
-- ⚙️ Built backend services with ABP framework in C# and managed API integrations
-- 👥 Maintained GitHub codebase, managed branching, and supervised junior developers
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanbashir360&theme=tokyonight&hide_border=true"/>
 
-### 🏥 Sarasota Memorial Health Care System | Flutter Developer
-**📍 Florida, USA | September 2020 - November 2022**
-
-- 📱 Developed three mobile apps for Sarasota Memorial Hospital enhancing patient access across multiple branches
-- 👨‍⚕️ Built features for doctor search and appointment booking with qualifications and experience display
-- 🩺 Implemented symptom checker tool recommending personal doctors or critical care based on user input
-- 🏨 Integrated patient portal with surgery status, event updates, bill payment, careers, and branch locations via Google Maps
-
-### 🚂 Pakistan Railways | Android Developer
-**📍 Lahore, Pakistan | October 2019 - July 2020**
-
-- 🎫 Created Flutter app enabling seamless online and offline ticketing for Pakistan Railways
-- 📴 Implemented offline ticketing functionality for remote areas with record sync when internet restored
-- 🖨️ Integrated Bluetooth support for thermal printers to print tickets and issue fines on the spot
-- 🚉 Included features for fare calculations, train schedules, routes, and seat records management
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Transaction Classifier — Agentic LLM Pipeline ⭐
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+🔗 **[github.com/irfanbashir360/txn-classifier](https://github.com/irfanbashir360/txn-classifier)**
+
+- 🧠 Agentic LangGraph pipeline classifying bank-statement transactions into **36 accounting categories**
+- 📊 **87.8% overall accuracy** — auto-accepts ~84% of predictions at **94.4% accuracy** and routes only **16.2%** to human review
+- 🔁 **RAG merchant memory** (ChromaDB) grounds each classification in prior labeled decisions and learns from every correction
+- 🛡️ Layered anti-hallucination guardrails: closed-vocabulary output, echo-back verification, and a confidence gate backstop
+- 🧪 Leak-safe evaluation harness (**69 tests**) with deterministic accuracy sweeps + a live Streamlit review UI
 
 ### 💬 Conversations for Greatness
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 </p>
 
-- 📱 Social platform mobile and web app built with Flutter
-- 🎬 Multimedia features - video/picture posting and sharing
-- 💬 Direct messaging and real-time notifications
-- 🔐 OAuth and Firebase authentication integration
-- ⚙️ Backend powered by ABP Framework in C#
+- 📱 Social platform mobile & web app built with Flutter (BLoC/Cubit)
+- 🎬 Multimedia posting, direct messaging, and real-time notifications
+- 🔐 OAuth and Firebase authentication; REST API integration with backend teams
 
 ### 🏥 Sarasota Memorial Hospital Apps
 <p>
@@ -153,11 +156,10 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-- 🏨 Three mobile apps for multi-branch hospital system
+- 🏨 Three healthcare mobile apps for a multi-branch hospital system — **live on the App Store & Google Play**
 - 👨‍⚕️ Doctor search with qualifications and appointment booking
-- 🩺 AI-powered symptom checker with care recommendations
-- 📋 Patient portal - surgery status, events, bill payment
-- 🗺️ Branch locations with Google Maps integration
+- 🩺 Rule-based symptom checker routing users to primary or critical care
+- 📋 Patient portal — surgery status, bill payment, and branch locations via Google Maps
 
 ### 🚂 Pakistan Railways Ticketing System
 <p>
@@ -166,11 +168,9 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
-- 🎫 Online and offline ticketing system for Pakistan Railways
-- 📴 Offline mode for remote areas with automatic sync
-- 🖨️ Bluetooth thermal printer integration for instant tickets
-- 💰 Fare calculation and fine issuance on the spot
-- 🚉 Train schedules, routes, and seat management
+- 🎫 Offline-first mobile ticketing system with automatic sync when back online
+- 🖨️ Bluetooth thermal-printer integration for instant tickets and on-the-spot fines
+- 🚉 Fare calculation, train schedules, routes, and seat management
 
 ### 📊 Uniq Meter App
 <p>
@@ -179,49 +179,61 @@
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white"/>
 </p>
 
-- 📱 Comprehensive metering & monitoring application
-- 🔌 Gateway integration and device management
-- 📡 Real-time data acquisition from APIs (Netbiter)
-- 📄 PDF generation and professional reporting
-- 🔐 Firebase authentication and cloud storage
+- 📱 IoT metering & monitoring app with gateway integration and device management
+- 📡 Real-time data acquisition from APIs (Netbiter) + PDF reporting
 
-### 🤖 AI Restaurant Kiosk
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Voice-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+---
 
-- 🎙️ Voice-powered ordering system with AI capabilities
-- 🧠 AI-driven menu recommendations
-- 💳 Seamless payment integration
-- 📋 Order management dashboard
+## 💼 Professional Journey
+
+### 💻 Computer Expertz Ltd | Lead Flutter Developer
+**📍 Kingston, Jamaica (Remote) | November 2022 – December 2025**
+
+- 📱 Built "Conversations for Greatness" social app with Flutter (BLoC/Cubit patterns)
+- 🔐 Integrated OAuth, Firebase, and multimedia features — video/picture posting, DMs, and notifications
+- 🔗 Integrated REST APIs with backend teams (Dio/HTTP/Chopper)
+- 👥 Maintained the GitHub codebase, managed branching & code reviews, and mentored junior developers
+
+### 🏥 Sarasota Memorial Health Care System | Flutter Developer
+**📍 Florida, USA (Remote) | September 2020 – November 2022**
+
+- 📱 Developed three Flutter healthcare apps improving patient access across hospital branches
+- 👨‍⚕️ Built doctor search and appointment booking with qualifications and experience display
+- 🩺 Implemented a rule-based symptom checker recommending primary or critical care
+- 🏨 Integrated a patient portal — surgery status, bill payment, and branch locations via Google Maps
+
+### 🚂 Pakistan Railways | Android Developer
+**📍 Lahore, Pakistan | October 2019 – July 2020**
+
+- 🎫 Built an offline-first mobile ticketing app with record sync when internet was restored
+- 🖨️ Integrated Bluetooth thermal printers to print tickets and issue fines on the spot
+- 🚉 Implemented fare calculations, train schedules, routes, and seat-record management
 
 ---
 
 ## 🎓 Education & Certifications
 
-### 📚 Master of Science in Data Science
-**University of South Wales** | Cardiff, UK | 2025
+### 📚 MSc Data Science
+**University of South Wales** · Cardiff, UK · 2025 – 2026
 
-### 🏅 Certifications
+### 📚 BS Software Engineering
+**Government College University Faisalabad (GCUF)** · Pakistan · 2018 – 2022
 
-🔴 **HCIP-Datacom** (Advanced Routing) - Huawei
+### 🏅 Certifications (Huawei)
 
-🟠 **HCIA-Datacom** - Huawei
+🟢 **HCIA-AI** — Artificial Intelligence
 
-🟢 **HCIA-AI** - Huawei
+🔴 **HCIP-Datacom** — Advanced Routing
+
+🟠 **HCIA-Datacom**
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Leadership
 
-### 🥇 Speed Programming Champion
-**Science Bee'19 | NUST, Islamabad**
-
-- Represented IEEE Society, GCUF
-- Competed against students from universities across Pakistan
-- Secured the title after successfully navigating two competitive rounds
+- 🥇 **Winner** — Speed Programming Competition, Science Bee '19, NUST Islamabad *(national level)*
+- 🥈 **Runner-Up** — Speed Programming Competition, COMSATS University *(national level)*
+- 🧑‍💼 **General Secretary** — IEEE Computer Society, GCUF (2020 – 2022)
 
 ---
 
@@ -246,14 +258,14 @@
 
 ### 💼 Open For Opportunities
 
+<img src="https://img.shields.io/badge/AI%2FML_Engineering-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Science-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_%2F_Agentic_AI-10A37F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flutter_Development-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML_Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Freelance-00C853?style=for-the-badge"/>
 
 ---
 
-> *"Transforming ideas into apps, data into insights."*
+> *"Taking ML from evaluation to deployment — agentic LLM pipelines, RAG, applied ML."*
 
 </div>
 
