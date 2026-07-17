@@ -150,7 +150,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
   </tr>
   <tr>
     <td align="center" width="90"><img src="assets/icons/gcuf.png" width="60" alt="GCUF"/></td>
-    <td><b>BS Software Engineering</b><br/>Government College University Faisalabad (GCUF) · Pakistan · 2018 – 2022</td>
+    <td><b>BS Software Engineering</b><br/><a href="https://gcuf.edu.pk">Government College University Faisalabad (GCUF)</a> · Pakistan · 2018 – 2022</td>
   </tr>
 </table>
 
