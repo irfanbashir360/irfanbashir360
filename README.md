@@ -123,7 +123,7 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
   </tr>
   <tr>
     <td align="center" width="90"><img src="assets/icons/easi.png" width="56" alt="EASI"/></td>
-    <td><b>EASI APP</b><br/>Enterprise Flutter field-metering platform — offline-first QR capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel reporting. &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.uniq.meterreading">Play Store</a> · <a href="https://apps.apple.com/us/app/easi-app/id6747506964">App Store</a></td>
+    <td><a href="https://easi-app.co.uk"><b>EASI APP</b></a><br/>Enterprise Flutter field-metering platform — offline-first QR capture across electric/water/gas/thermal assets, event-driven BLoC architecture, real-time Firebase sync (Firestore · Cloud Functions · FCM · Crashlytics), role-based multi-tenant company management, and automated PDF/Excel reporting. &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.uniq.meterreading">Play Store</a> · <a href="https://apps.apple.com/us/app/easi-app/id6747506964">App Store</a></td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="assets/icons/mycfg.png" width="56" alt="Conversations for Greatness"/></td>
