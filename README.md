@@ -121,66 +121,11 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
 
 ## 🚀 Featured Projects
 
-### 🤖 Transaction Classifier — Agentic LLM Pipeline ⭐
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-🔗 **[github.com/irfanbashir360/txn-classifier](https://github.com/irfanbashir360/txn-classifier)**
-
-- 🧠 Agentic LangGraph pipeline classifying bank-statement transactions into **36 accounting categories**
-- 📊 **87.8% overall accuracy** — auto-accepts ~84% of predictions at **94.4% accuracy** and routes only **16.2%** to human review
-- 🔁 **RAG merchant memory** (ChromaDB) grounds each classification in prior labeled decisions and learns from every correction
-- 🛡️ Layered anti-hallucination guardrails: closed-vocabulary output, echo-back verification, and a confidence gate backstop
-- 🧪 Leak-safe evaluation harness (**69 tests**) with deterministic accuracy sweeps + a live Streamlit review UI
-
-### 💬 Conversations for Greatness
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</p>
-
-- 📱 Social platform mobile & web app built with Flutter (BLoC/Cubit)
-- 🎬 Multimedia posting, direct messaging, and real-time notifications
-- 🔐 OAuth and Firebase authentication; REST API integration with backend teams
-
-### 🏥 Sarasota Memorial Hospital Apps
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-- 🏨 Three healthcare mobile apps for a multi-branch hospital system — **live on the App Store & Google Play**
-- 👨‍⚕️ Doctor search with qualifications and appointment booking
-- 🩺 Rule-based symptom checker routing users to primary or critical care
-- 📋 Patient portal — surgery status, bill payment, and branch locations via Google Maps
-
-### 🚂 Pakistan Railways Ticketing System
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-
-- 🎫 Offline-first mobile ticketing system with automatic sync when back online
-- 🖨️ Bluetooth thermal-printer integration for instant tickets and on-the-spot fines
-- 🚉 Fare calculation, train schedules, routes, and seat management
-
-### 📊 Uniq Meter App
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white"/>
-</p>
-
-- 📱 IoT metering & monitoring app with gateway integration and device management
-- 📡 Real-time data acquisition from APIs (Netbiter) + PDF reporting
+- 🤖 **[Transaction Classifier](https://github.com/irfanbashir360/txn-classifier)** — agentic LLM pipeline classifying bank transactions into 36 accounting categories at 87.8% accuracy.
+- 💬 **Conversations for Greatness** — Flutter social platform with multimedia posts, DMs, and real-time notifications.
+- 🏥 **[Sarasota Memorial Hospital Apps](https://apps.apple.com/pk/app/sarasota-memorial/id397478168)** — three Flutter healthcare apps (doctor search, booking, rule-based symptom checker), live on the App Store & Google Play.
+- 🚂 **Pakistan Railways Ticketing** — offline-first mobile ticketing with Bluetooth thermal-printer support.
+- 📊 **Uniq Meter App** — IoT metering & monitoring app with real-time data acquisition and PDF reporting.
 
 ---
 
