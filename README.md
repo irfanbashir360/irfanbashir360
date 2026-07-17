@@ -154,6 +154,30 @@ AI/ML Engineer & Data Scientist with **5+ years building production Python syste
   </tr>
 </table>
 
+### 📄 Master's Thesis
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MSc%20Data%20Science-2026-6366F1?style=flat-square"/>
+
+> Dissertation underway as part of my MSc Data Science at the University of South Wales — title and abstract coming soon.
+
+<!--
+  ✏️  THESIS TEMPLATE — replace the blockquote above with your details when ready:
+
+  **<Thesis Title>**
+  <one-line research question or focus>
+
+  <img src="https://img.shields.io/badge/Methods-RAG%20%C2%B7%20Transformers-6E56CF?style=flat-square"/>  ← edit the method badges
+
+  <details>
+    <summary>📖 Abstract</summary>
+    <br/>
+    <2–4 sentence summary of the problem, approach, and result.>
+  </details>
+
+  Supervisor: <name>  ·  [Read the thesis](<link>)
+-->
+
 ### 🏅 Certifications (Huawei)
 
 🟢 **HCIA-AI** — Artificial Intelligence
